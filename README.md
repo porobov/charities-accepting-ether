@@ -13,7 +13,7 @@ Links to pages with an ethereum address to donate:
 
 **Health care:**
 
-- [Breast Cancer Support](https://breastcancersupport.org.uk/emergency-appeal/- donate-ethereum-to-charity/) - Breast cancer support project in UK
+- [Breast Cancer Support](https://breastcancersupport.org.uk/emergency-appeal/donate-ethereum-to-charity/) - Breast cancer support project in UK
 - [SENS Research Foundation](http://www.sens.org/donate) - Figths the diseases of aging (Vitalik donated here, 501c3 non-profit)
 - [The Lake Clinic Cambodia](http://www.lakeclinic.org/donations/crypto/) - Provide isolated villagers with competent and consistent health care 
 
