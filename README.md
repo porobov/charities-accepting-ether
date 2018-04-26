@@ -1,9 +1,42 @@
 # Charities accepting Ethereum
 
-Prefferred projects addressing life and death problems (no software, art, wikileaks, cultural events or beer dontaions here).
+Projects addressing life and death problems are prefferred (no software, art, info leaks, beer, etc).
+
+## Charities
+Links to pages with an ethereum address to donate:
+
+**Hunger and poverty:**
+
+- [GiveDirectly](https://givedirectly.org/give-now) - Grants to the world’s “extreme poor” (Vitalik Buterin and OmiseGo founder, Jun Hasegawa already donated)
+- [Unsung](http://www.unsung.org/donate) - Sponsor a meal to those in hunger in US (501c3 non-profit)
+- [Heifer International](https://www.heifer.org/what-you-can-do/give/digital-currency.html) - Help communities become the drivers of their own change to end hunger and poverty in Africa, Asia, Americas
+
+**Health care:**
+
+- [Breast Cancer Support](https://breastcancersupport.org.uk/emergency-appeal/- donate-ethereum-to-charity/) - Breast cancer support project in UK
+- [SENS Research Foundation](http://www.sens.org/donate) - Figths the diseases of aging (Vitalik donated here, 501c3 non-profit)
+- [The Lake Clinic Cambodia](http://www.lakeclinic.org/donations/crypto/) - Provide isolated villagers with competent and consistent health care 
+
+**Children:**
+
+- [UNICEF (New Zealand)](https://www.unicef.org.nz/donate-in-crypto) - Protect and support children around the world.
+- [UNICEF to Syrian children](https://www.chaingers.io/en/index.html) - Donate to Syrian children with UNICEF (see under "Mining" tab). Mining in browser is also available.
+
+**Water:**
+
+- [The Water Project](https://thewaterproject.org/donate-ethereum) - Provide access to clean water across sub-Saharan Africa (501c3 non-profit)
+- [Hippo Roller](https://www.hipporoller.org/donate/) - Devices to easily collect water in tough rural conditions. Help somebody get one. 
+
+**Climate:**
+
+- [350.org](https://350.org/other-ways-to-give/) - Building the global grassroots climate movement
+
+**Other:**
+
+- https://giveth.io/donate/
 
 
-# Platforms
+## Platforms
 
 Giveeth.io
 
@@ -21,27 +54,4 @@ https://github.com/TeamPhoenix-Ethdenver/FeelGood
 
 https://urbanarray.org/blockchain-presentation/ 
 
-# Already accepting
-
-https://givedirectly.org/ - grants to the world’s “extreme poor,” (Vitalik Buterin and OmiseGo founder, Jun Hasegawa donated here)
-
-http://www.unsung.org/donate
-
-https://giveth.io/donate/
-
-https://breastcancersupport.org.uk/emergency-appeal/donate-ethereum-to-charity/ 
-http://www.sens.org/donate - Vitalik donated here 
-
-https://thewaterproject.org/donate-ethereum
-
-https://www.heifer.org/what-you-can-do/give/digital-currency.html
-
-https://www.chaingers.io/en/index.html - donate to Syrian children with UNICEF - click "Minig" and scroll down to see ethereum address or mine in browser  
-
-https://www.hipporoller.org/donate/  
-
-https://www.unicef.org.nz/donate-in-crypto - Another UNICEF project. Help UNICEF protect and support children around the world by exchanging your coins for good.
-
-http://www.lakeclinic.org/donations/crypto/
-
-https://350.org/other-ways-to-give/
+## Blacklist
