@@ -47,6 +47,12 @@ Links to pages with an ethereum address to donate:
 - [Charity DAO](http://charity-dao.org/) - Vote for the projects you would like to see funded and keep track of expenses (no news since 18 Nov 2016).
 - [Benefactory](http://www.benefactory.cc/) - Create a grassroots sector of economy where influence flows from the bottom up (no news since Nov 22, 2016).
 
+
+## Part of revenue goes to charity
+
+[The Million Ether Homepage](http://themillionetherhomepage.com/) - Advertising project. Buy, sell, rent pixels, place ads. 80% of revenue goes to charity.
+[Seedom](https://seedom.io/) - Smart-contract lottery with insured randomness. 60% of revenue goes to charity (based on giveth platform).
+
 ## Blacklist
 
 So far so good...
