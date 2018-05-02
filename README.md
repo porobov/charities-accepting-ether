@@ -10,6 +10,7 @@ Links to pages with an ethereum address to donate:
 - [GiveDirectly](https://givedirectly.org/give-now) - Grants to the world’s “extreme poor” (Vitalik Buterin and OmiseGo founder, Jun Hasegawa already donated).
 - [Unsung](http://www.unsung.org/donate) - Sponsor a meal to those in hunger in US, Powered by Bitcoin (501c3 non-profit).
 - [Heifer International](https://www.heifer.org/what-you-can-do/give/digital-currency.html) - Help communities become the drivers of their own change to end hunger and poverty in Africa, Asia, Americas.
+- [GRACEaid](https://www.graceaid.org.uk/donations/) - donations for refugees and destitute families both within UK and internationally (an ethereum address by request).
 
 **Health care:**
 
