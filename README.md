@@ -10,7 +10,7 @@ Links to pages with an ethereum address to donate:
 - [GiveDirectly](https://givedirectly.org/give-now) - Grants to the world’s “extreme poor” (Vitalik Buterin and OmiseGo founder, Jun Hasegawa already donated).
 - [Unsung](http://www.unsung.org/donate) - Sponsor a meal to those in hunger in US, Powered by Bitcoin (501c3 non-profit).
 - [Heifer International](https://www.heifer.org/what-you-can-do/give/digital-currency.html) - Help communities become the drivers of their own change to end hunger and poverty in Africa, Asia, Americas.
-- [GRACEaid](https://www.graceaid.org.uk/donations/) - donations for refugees and destitute families both within UK and internationally (an ethereum address by request).
+- [GRACEaid](https://www.graceaid.org.uk/donations/) - [Donations](https://github.com/GRACEaid/Refugee-Smart-Contract/blob/master/README.md) for refugees and destitute families both within UK and internationally.
 
 **Health care:**
 
@@ -34,7 +34,7 @@ Links to pages with an ethereum address to donate:
 
 ## Platforms
 
-- [Giveeth.io](https://giveth.io/) - An open-source platform for building decentralized altruistic communities. [Donate](https://giveth.io/donate/) to campaigns and developement, see the progress, help make decisions, create your own campaigns (as of May 2018 is [the most actively developed project](https://github.com/giveth)).
+- [Giveth.io](https://giveth.io/) - An open-source platform for building decentralized altruistic communities. [Donate](https://giveth.io/donate/) to campaigns and developement, see the progress, help make decisions, create your own campaigns (as of May 2018 is [the most actively developed project](https://github.com/giveth)).
 - [Alice.si](https://alice.si/) - Similar as the above, but with a different governance system. Donate to developement [here](http://donationsapp.alice.si/geek-mode/).
 - [BanQu](http://www.banquapp.com/) - Economic Identity solutions for the poorest and refugees worldwide. Supply chain transparency, traceability, sustainability.
 - [Urban Array](https://urbanarray.org/blockchain-presentation/) - Not a charity, but gives regular people the ability to organize, collaborate and rebuild communities.
