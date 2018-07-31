@@ -11,6 +11,7 @@ Links to pages with an ethereum address to donate:
 - [Unsung](http://www.unsung.org/donate) - Sponsor a meal to those in hunger in US, Powered by Bitcoin (501c3 non-profit).
 - [Heifer International](https://www.heifer.org/what-you-can-do/give/digital-currency.html) - Help communities become the drivers of their own change to end hunger and poverty in Africa, Asia, Americas.
 - [GRACEaid](https://www.graceaid.org.uk/donations/) - [Donations](https://github.com/GRACEaid/Refugee-Smart-Contract/blob/master/README.md) for refugees and destitute families both within UK and internationally.
+- [GiveCrypto.org](https://www.givecrypto.org/) - GiveCrypto is a nonprofit that distributes cryptocurrency to people living in poverty.
 
 **Health care:**
 
