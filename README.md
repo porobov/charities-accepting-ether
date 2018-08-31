@@ -55,6 +55,3 @@ Links to pages with an ethereum address to donate:
 - [The Million Ether Homepage](http://themillionetherhomepage.com/) - Advertising project. Buy, sell, rent pixels, place ads. 80% of revenue goes to charity.
 - [Seedom](https://seedom.io/) - Smart-contract lottery with insured randomness. 60% of revenue goes to charity (based on giveth platform).
 
-## Blacklist
-
-So far so good...
